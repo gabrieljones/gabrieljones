@@ -1,5 +1,3 @@
-# Gabriel Jones
-
 ## Projects
 
 ### Thalassophobia - A game for Blinks
