@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Gabriel Jones
 
-You can use the [editor on GitHub](https://github.com/gabrieljones/gabrieljones/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Thalassophobia - A game for Blinks
+<img src="https://ksr-ugc.imgix.net/assets/031/048/039/82470f88439312c476375a7641ba2d2a_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1602970619&auto=format&frame=1&q=92&s=24aac167e1723e6fb5744a877cabc75a"/>
 
-### Markdown
+- [Kickstarter](https://www.kickstarter.com/projects/move38/blinks-smart-board-game-system-epic-adventure-expansion)
+- [Source](https://github.com/Move38/Thalassophobia/blob/master/Thalassophobia.ino)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Jewelry Design
+<img src="https://images4.sw-cdn.net/product/picture/710x528_19051893_11121617_1496674042.jpg"/>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrieljones/gabrieljones/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - [Shapeways](https://www.shapeways.com/shops/aethyr)
+ 
