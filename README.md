@@ -6,6 +6,7 @@
 <img src="https://ksr-ugc.imgix.net/assets/031/048/039/82470f88439312c476375a7641ba2d2a_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1602970619&auto=format&frame=1&q=92&s=24aac167e1723e6fb5744a877cabc75a"/>
 
 - [Kickstarter](https://www.kickstarter.com/projects/move38/blinks-smart-board-game-system-epic-adventure-expansion)
+- [BoardGameGeek](https://boardgamegeek.com/boardgame/323026/thalassophobia)
 - [Source](https://github.com/Move38/Thalassophobia/blob/master/Thalassophobia.ino)
 
 ### Jewelry Design
