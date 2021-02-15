@@ -3,7 +3,7 @@
 ## Projects
 
 ### Thalassophobia - A game for Blinks
-<img src="https://ksr-ugc.imgix.net/assets/031/048/039/82470f88439312c476375a7641ba2d2a_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1602970619&auto=format&frame=1&q=92&s=24aac167e1723e6fb5744a877cabc75a"/>
+<img src="https://cdn.shopify.com/s/files/1/2127/8629/t/16/assets/Thalassophobia-1602880192084.png"/>
 
 - [Home](https://move38.com/pages/thalassophobia)
 - [Kickstarter](https://www.kickstarter.com/projects/move38/blinks-smart-board-game-system-epic-adventure-expansion)
